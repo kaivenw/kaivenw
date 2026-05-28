@@ -16,6 +16,10 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Agent%20%26%20DevTools-00a67e?style=flat-square" alt="Focus AI Agent and DevTools" />
   <img src="https://img.shields.io/badge/Java-8%2F11%2F17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8 11 17" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-CLI%20Tools-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Queue-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-Delivery-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
@@ -30,14 +34,77 @@
 
 ## 技术栈
 
-| 方向 | 技能 |
-| --- | --- |
-| Java / Spring | Java 8/11/17、Spring Boot、Spring Cloud、Spring Security、JWT、MyBatis / MyBatis-Plus、Hibernate |
-| 系统设计 / 通信 | Netty、WebSocket、RabbitMQ、Redis、Caffeine、多数据源动态切换、设备接入网关、订单状态机、OTA 升级链路 |
-| 数据与性能 | MySQL、Oracle、Elasticsearch、SQL 调优、索引优化、批量写入、缓存一致性、异步解耦 |
-| 工程化 | Maven 多模块、Docker、Jenkins / GitLab CI/CD、Nginx、Linux Shell、Git / SVN |
-| 云服务 / 集成 | 阿里云 OSS / OCR、腾讯云 SMS、微信支付 / 退款、高德地图 / 腾讯地图 API |
-| AI 提效 | Cursor、Claude Code、OpenAI Codex、代码生成、重构、测试补充、日志分析、文档输出 |
+**Java / Spring**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8 11 17" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Service-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JWT-Token-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/MyBatis-MyBatis%20Plus-4479A1?style=flat-square" alt="MyBatis MyBatis Plus" />
+  <img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+</p>
+
+**系统设计 / 通信**
+
+<p>
+  <img src="https://img.shields.io/badge/Netty-Networking-00A1E0?style=flat-square" alt="Netty" />
+  <img src="https://img.shields.io/badge/WebSocket-Realtime-4A90E2?style=flat-square" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Caffeine-Local%20Cache-8A63D2?style=flat-square" alt="Caffeine" />
+  <img src="https://img.shields.io/badge/Multi%20DataSource-Routing-455A64?style=flat-square" alt="Multi DataSource" />
+  <img src="https://img.shields.io/badge/OTA-Upgrade%20Workflow-00A67E?style=flat-square" alt="OTA Upgrade Workflow" />
+  <img src="https://img.shields.io/badge/Order%20State%20Machine-Workflow-7952B3?style=flat-square" alt="Order State Machine" />
+</p>
+
+**数据与性能**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/SQL%20Tuning-Performance-2F80ED?style=flat-square" alt="SQL Tuning" />
+  <img src="https://img.shields.io/badge/Index%20Optimization-Performance-2F80ED?style=flat-square" alt="Index Optimization" />
+  <img src="https://img.shields.io/badge/Batch%20Writes-Throughput-00A67E?style=flat-square" alt="Batch Writes" />
+  <img src="https://img.shields.io/badge/Cache%20Consistency-Reliability-DC382D?style=flat-square" alt="Cache Consistency" />
+</p>
+
+**工程化 / 交付**
+
+<p>
+  <img src="https://img.shields.io/badge/Maven-Multi%20Module-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitLab-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+  <img src="https://img.shields.io/badge/Nginx-Gateway-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux%20Shell-Automation-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Shell" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**云服务 / 第三方集成**
+
+<p>
+  <img src="https://img.shields.io/badge/Alibaba%20Cloud-OSS%20%2F%20OCR-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud OSS OCR" />
+  <img src="https://img.shields.io/badge/Tencent%20Cloud-SMS-1E9FFF?style=flat-square" alt="Tencent Cloud SMS" />
+  <img src="https://img.shields.io/badge/WeChat%20Pay-Payment-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Pay" />
+  <img src="https://img.shields.io/badge/Refund-Workflow-00A67E?style=flat-square" alt="Refund Workflow" />
+  <img src="https://img.shields.io/badge/AMap-Map%20API-1677FF?style=flat-square" alt="AMap API" />
+  <img src="https://img.shields.io/badge/Tencent%20Map-Map%20API-1E9FFF?style=flat-square" alt="Tencent Map API" />
+</p>
+
+**AI 提效**
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-AI%20Coding-000000?style=flat-square" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude%20Code-Agent%20Coding-D97757?style=flat-square" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-Code%20Assistant-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/DeepSeek-CLI%20Workflow-2F80ED?style=flat-square" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/MCP-Tool%20Protocol-00A67E?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agent%20Workflow-Automation-7952B3?style=flat-square" alt="Agent Workflow" />
+  <img src="https://img.shields.io/badge/Docs%20Automation-Knowledge%20Output-455A64?style=flat-square" alt="Docs Automation" />
+</p>
 
 ## 代表项目
 
@@ -83,14 +150,21 @@ I am a Java backend / full-stack developer with 8 years of experience in enterpr
 
 ## Skills
 
-| Area | Skills |
-| --- | --- |
-| Java / Spring | Java 8/11/17, Spring Boot, Spring Cloud, Spring Security, JWT, MyBatis / MyBatis-Plus, Hibernate |
-| System / Communication | Netty, WebSocket, RabbitMQ, Redis, Caffeine, dynamic data source routing, device gateway, order state machine, OTA workflow |
-| Data / Performance | MySQL, Oracle, Elasticsearch, SQL tuning, index optimization, batch writes, cache consistency, async decoupling |
-| Engineering | Maven multi-module projects, Docker, Jenkins / GitLab CI/CD, Nginx, Linux Shell, Git / SVN |
-| Cloud / Integration | Alibaba Cloud OSS / OCR, Tencent Cloud SMS, WeChat Pay / refund, AMap / Tencent Map APIs |
-| AI Productivity | Cursor, Claude Code, OpenAI Codex, code generation, refactoring, test completion, log analysis, documentation |
+<p>
+  <img src="https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8 11 17" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Service-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/Netty-Networking-00A1E0?style=flat-square" alt="Netty" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/WeChat%20Pay-Payment-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Pay" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-Code%20Assistant-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/MCP-Tool%20Protocol-00A67E?style=flat-square" alt="MCP" />
+</p>
 
 ## Featured Projects
 
