@@ -32,10 +32,6 @@
 
 ## 核心能力
 
-**后端工程与业务建模**
-
-企业级 Java 服务、微服务、认证鉴权、持久层开发，以及订单 / 库存 / 售后等业务链路建模。
-
 <p>
   <img src="https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8 11 17" />
   <img src="https://img.shields.io/badge/Spring%20Boot-Application-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -43,10 +39,6 @@
   <img src="https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/MyBatis%20Plus-Persistence-4479A1?style=flat-square" alt="MyBatis Plus" />
 </p>
-
-**实时通信与稳定性**
-
-设备接入、实时链路、消息解耦、缓存协同、多数据源隔离与异常恢复。
 
 <p>
   <img src="https://img.shields.io/badge/Netty-Binary%20Protocol-00A1E0?style=flat-square" alt="Netty Binary Protocol" />
@@ -57,10 +49,6 @@
   <img src="https://img.shields.io/badge/Multi%20DataSource-Routing-455A64?style=flat-square" alt="Multi DataSource" />
 </p>
 
-**数据性能与系统集成**
-
-关系型数据库、搜索、SQL 优化、批处理，以及支付退款、文件服务、OCR、短信和地图 API 对接。
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
@@ -69,10 +57,6 @@
   <img src="https://img.shields.io/badge/Alibaba%20Cloud-OSS%20%2F%20OCR-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud OSS OCR" />
   <img src="https://img.shields.io/badge/Map%20API-AMap%20%2F%20Tencent-1677FF?style=flat-square" alt="AMap Tencent Map API" />
 </p>
-
-**工程交付与 AI 工具链**
-
-多模块工程、容器化、CI/CD、网关部署、脚本自动化，以及 AI Coding / Agent / MCP 工具链建设。
 
 <p>
   <img src="https://img.shields.io/badge/Maven-Multi%20Module-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
@@ -121,10 +105,6 @@ I am also exploring AI Coding, CLI tools, agent workflows, and MCP-based plugin 
 
 ## Skills
 
-**Backend Engineering and Business Modeling**
-
-Enterprise Java services, microservices, authentication, persistence, and order / inventory / after-sales workflow modeling.
-
 <p>
   <img src="https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8 11 17" />
   <img src="https://img.shields.io/badge/Spring%20Boot-Application-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -132,10 +112,6 @@ Enterprise Java services, microservices, authentication, persistence, and order 
   <img src="https://img.shields.io/badge/Spring%20Security-Auth-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/MyBatis%20Plus-Persistence-4479A1?style=flat-square" alt="MyBatis Plus" />
 </p>
-
-**Realtime Communication and Reliability**
-
-Device access, realtime links, async messaging, cache coordination, data-source isolation, and fault recovery.
 
 <p>
   <img src="https://img.shields.io/badge/Netty-Binary%20Protocol-00A1E0?style=flat-square" alt="Netty Binary Protocol" />
@@ -146,10 +122,6 @@ Device access, realtime links, async messaging, cache coordination, data-source 
   <img src="https://img.shields.io/badge/Multi%20DataSource-Routing-455A64?style=flat-square" alt="Multi DataSource" />
 </p>
 
-**Data Performance and Integrations**
-
-Databases, search, SQL tuning, batch processing, payment/refund, file service, OCR, SMS, and map APIs.
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
@@ -158,10 +130,6 @@ Databases, search, SQL tuning, batch processing, payment/refund, file service, O
   <img src="https://img.shields.io/badge/Alibaba%20Cloud-OSS%20%2F%20OCR-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud OSS OCR" />
   <img src="https://img.shields.io/badge/Map%20API-AMap%20%2F%20Tencent-1677FF?style=flat-square" alt="AMap Tencent Map API" />
 </p>
-
-**Engineering Delivery and AI Tooling**
-
-Multi-module projects, containers, CI/CD, gateway deployment, automation scripts, AI Coding, agents, and MCP tooling.
 
 <p>
   <img src="https://img.shields.io/badge/Maven-Multi%20Module-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
