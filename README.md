@@ -24,15 +24,17 @@
 
 ## 关于我
 
-我是一名有 8 年经验的 Java 后端 / 全栈开发工程师，长期参与企业级业务系统、IoT 实时通信、交易链路和开放平台建设。
+8 年 Java 后端 / 全栈开发经验，主要面向企业级业务平台与高可靠后端服务建设，关注复杂业务链路建模、系统稳定性治理和工程化交付。
 
-- 习惯从业务目标出发，完整推进需求拆解、技术方案、数据建模、接口设计、联调上线和线上问题闭环。
-- 做过现代农业数字平台、企业福利电商、新能源充电平台、政务系统等项目，覆盖设备接入、订单、支付、库存、搜索、售后、报表和第三方集成。
-- 对 AI Coding、CLI 工具、Agent 工作流、MCP / 插件系统和研发自动化很感兴趣，也在持续建设自己的开发工具链。
+具备从需求分析、领域建模、接口设计、数据建模到联调上线、线上问题闭环的完整交付经验。项目经验覆盖现代农业数字化、企业福利电商、新能源充电与政务业务，核心场景包括 IoT 设备接入、订单交易、支付售后、库存同步、搜索与第三方集成。
 
-## 技能地图
+近期持续探索 AI Coding、CLI 工具、Agent 工作流与 MCP 插件化能力在研发提效中的落地，尝试把高频开发流程沉淀为可复用工具。
 
-**后端主栈：企业级 Java 服务、微服务、认证鉴权与持久层开发**
+## 核心能力
+
+**后端工程与业务建模**
+
+企业级 Java 服务、微服务、认证鉴权、持久层开发，以及订单 / 库存 / 售后等业务链路建模。
 
 <p>
   <img src="https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8 11 17" />
@@ -42,17 +44,9 @@
   <img src="https://img.shields.io/badge/MyBatis%20Plus-Persistence-4479A1?style=flat-square" alt="MyBatis Plus" />
 </p>
 
-**业务链路：订单、库存、售后、开放平台和 IoT 设备接入**
+**实时通信与稳定性**
 
-<p>
-  <img src="https://img.shields.io/badge/Order%20Workflow-State%20Machine-7952B3?style=flat-square" alt="Order Workflow" />
-  <img src="https://img.shields.io/badge/Inventory-Sync%20Workflow-455A64?style=flat-square" alt="Inventory Sync Workflow" />
-  <img src="https://img.shields.io/badge/Refund-After--sales-00A67E?style=flat-square" alt="Refund After-sales" />
-  <img src="https://img.shields.io/badge/IoT%20Gateway-Device%20Access-00A1E0?style=flat-square" alt="IoT Gateway" />
-  <img src="https://img.shields.io/badge/OTA-Remote%20Upgrade-455A64?style=flat-square" alt="OTA Remote Upgrade" />
-</p>
-
-**通信与异步：实时链路、消息解耦、缓存协同与多数据源隔离**
+设备接入、实时链路、消息解耦、缓存协同、多数据源隔离与异常恢复。
 
 <p>
   <img src="https://img.shields.io/badge/Netty-Binary%20Protocol-00A1E0?style=flat-square" alt="Netty Binary Protocol" />
@@ -63,45 +57,31 @@
   <img src="https://img.shields.io/badge/Multi%20DataSource-Routing-455A64?style=flat-square" alt="Multi DataSource" />
 </p>
 
-**数据与性能：关系型数据库、搜索、SQL 优化和批处理吞吐**
+**数据性能与系统集成**
+
+关系型数据库、搜索、SQL 优化、批处理，以及支付退款、文件服务、OCR、短信和地图 API 对接。
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/SQL%20Tuning-Indexes%20%26%20Queries-2F80ED?style=flat-square" alt="SQL Tuning" />
-  <img src="https://img.shields.io/badge/Batch%20Processing-Throughput-00A67E?style=flat-square" alt="Batch Processing" />
-</p>
-
-**外部集成：支付退款、文件服务、OCR、短信和地图 API 对接**
-
-<p>
   <img src="https://img.shields.io/badge/WeChat%20Pay-Payment%20%26%20Refund-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Pay Payment Refund" />
   <img src="https://img.shields.io/badge/Alibaba%20Cloud-OSS%20%2F%20OCR-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud OSS OCR" />
-  <img src="https://img.shields.io/badge/Tencent%20Cloud-SMS-1E9FFF?style=flat-square" alt="Tencent Cloud SMS" />
   <img src="https://img.shields.io/badge/Map%20API-AMap%20%2F%20Tencent-1677FF?style=flat-square" alt="AMap Tencent Map API" />
 </p>
 
-**工程交付：多模块工程、容器化、CI/CD、网关部署与脚本自动化**
+**工程交付与 AI 工具链**
+
+多模块工程、容器化、CI/CD、网关部署、脚本自动化，以及 AI Coding / Agent / MCP 工具链建设。
 
 <p>
   <img src="https://img.shields.io/badge/Maven-Multi%20Module-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-Pipeline-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
   <img src="https://img.shields.io/badge/Nginx-Gateway-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Linux%20Shell-Automation-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Shell" />
-</p>
-
-**AI 与工具链：AI Coding、CLI 工作流、Agent、MCP 和文档自动化**
-
-<p>
-  <img src="https://img.shields.io/badge/Cursor-AI%20Coding-000000?style=flat-square" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude%20Code-Agent%20Coding-D97757?style=flat-square" alt="Claude Code" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-Code%20Assistant-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/DeepSeek%20CLI-Developer%20Tool-2F80ED?style=flat-square" alt="DeepSeek CLI" />
   <img src="https://img.shields.io/badge/MCP-Tool%20Protocol-00A67E?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/Docs%20Automation-Knowledge%20Output-455A64?style=flat-square" alt="Docs Automation" />
 </p>
 
 ## 代表项目
@@ -112,13 +92,6 @@
 | [deepseek-cli-docs](https://github.com/kaivenw/deepseek-cli-docs) | DeepSeek CLI 文档站，沉淀安装、配置、使用方式和 AI Coding 工作流。 | HTML / Docs |
 | [fileforge](https://github.com/kaivenw/fileforge) | 文件处理平台，覆盖 Word / PDF 转换、PDF 工具、图片处理、OCR 和批量 ZIP 下载。 | Python / Flask / HTML |
 | [yu_ai](https://github.com/kaivenw/yu_ai) | Java 方向的 AI 应用探索与实验。 | Java |
-
-## 业务经验关键词
-
-- IoT 设备接入、二进制协议解析、心跳与异常恢复、OTA 分块升级与失败回滚。
-- 企业福利电商的订单、商品、商户、支付、售后、搜索、履约和开放平台能力。
-- 新能源充电平台的扫码充电、计费、支付、附近找桩、设备指令交互和高并发处理。
-- 基于 Redis、RabbitMQ、线程池、状态机、补偿任务和缓存预热提升链路稳定性与处理效率。
 
 ## 当前关注
 
@@ -140,15 +113,17 @@
 
 ## About Me
 
-I am a Java backend / full-stack developer with 8 years of experience in enterprise business systems, IoT real-time communication, transaction workflows, and open-platform integrations.
+I am a Java backend / full-stack developer with 8 years of experience in enterprise business platforms and reliable backend services, focusing on domain modeling, system stability, and engineering delivery.
 
-- I am comfortable driving work from business analysis to technical design, data modeling, API design, integration, release, and production issue follow-up.
-- My project experience covers modern agriculture platforms, employee-benefit e-commerce, charging platforms, government systems, device access, orders, payments, inventory, search, after-sales, reports, and third-party integrations.
-- I am interested in AI coding, CLI tools, agent workflows, MCP/plugin systems, and developer automation.
+I have delivered work across requirement analysis, domain modeling, API design, data modeling, integration, release, and production issue follow-up. My project experience covers modern agriculture platforms, employee-benefit e-commerce, charging platforms, and government systems, including IoT access, order transactions, payment/refund, inventory sync, search, and third-party integration.
+
+I am also exploring AI Coding, CLI tools, agent workflows, and MCP-based plugin systems, with a focus on turning repetitive development workflows into reusable tools.
 
 ## Skills
 
-**Core Backend: enterprise Java services, microservices, authentication, and persistence**
+**Backend Engineering and Business Modeling**
+
+Enterprise Java services, microservices, authentication, persistence, and order / inventory / after-sales workflow modeling.
 
 <p>
   <img src="https://img.shields.io/badge/Java-8%20%7C%2011%20%7C%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8 11 17" />
@@ -158,52 +133,44 @@ I am a Java backend / full-stack developer with 8 years of experience in enterpr
   <img src="https://img.shields.io/badge/MyBatis%20Plus-Persistence-4479A1?style=flat-square" alt="MyBatis Plus" />
 </p>
 
-**Business Workflows: order, inventory, after-sales, open platform, and IoT access**
+**Realtime Communication and Reliability**
+
+Device access, realtime links, async messaging, cache coordination, data-source isolation, and fault recovery.
 
 <p>
-  <img src="https://img.shields.io/badge/Order%20Workflow-State%20Machine-7952B3?style=flat-square" alt="Order Workflow" />
-  <img src="https://img.shields.io/badge/Inventory-Sync%20Workflow-455A64?style=flat-square" alt="Inventory Sync Workflow" />
-  <img src="https://img.shields.io/badge/Refund-After--sales-00A67E?style=flat-square" alt="Refund After-sales" />
-  <img src="https://img.shields.io/badge/IoT%20Gateway-Device%20Access-00A1E0?style=flat-square" alt="IoT Gateway" />
-  <img src="https://img.shields.io/badge/OTA-Remote%20Upgrade-455A64?style=flat-square" alt="OTA Remote Upgrade" />
-</p>
-
-**Communication and Async: realtime links, messaging, cache coordination, and data-source isolation**
-
-<p>
-  <img src="https://img.shields.io/badge/Netty-Networking-00A1E0?style=flat-square" alt="Netty" />
-  <img src="https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Netty-Binary%20Protocol-00A1E0?style=flat-square" alt="Netty Binary Protocol" />
+  <img src="https://img.shields.io/badge/WebSocket-Realtime-4A90E2?style=flat-square" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Async%20Messaging-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Lock-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Caffeine-Local%20Cache-8A63D2?style=flat-square" alt="Caffeine" />
   <img src="https://img.shields.io/badge/Multi%20DataSource-Routing-455A64?style=flat-square" alt="Multi DataSource" />
 </p>
 
-**Data and Delivery: databases, search, performance tuning, containers, and CI/CD**
+**Data Performance and Integrations**
+
+Databases, search, SQL tuning, batch processing, payment/refund, file service, OCR, SMS, and map APIs.
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Elasticsearch-Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/SQL%20Tuning-Indexes%20%26%20Queries-2F80ED?style=flat-square" alt="SQL Tuning" />
-  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-</p>
-
-**External Integrations: payment/refund, file service, OCR, SMS, and map APIs**
-
-<p>
   <img src="https://img.shields.io/badge/WeChat%20Pay-Payment%20%26%20Refund-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Pay Payment Refund" />
   <img src="https://img.shields.io/badge/Alibaba%20Cloud-OSS%20%2F%20OCR-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud OSS OCR" />
-  <img src="https://img.shields.io/badge/Tencent%20Cloud-SMS-1E9FFF?style=flat-square" alt="Tencent Cloud SMS" />
   <img src="https://img.shields.io/badge/Map%20API-AMap%20%2F%20Tencent-1677FF?style=flat-square" alt="AMap Tencent Map API" />
 </p>
 
-**AI and Tooling: AI coding, CLI workflow, agents, MCP, and documentation automation**
+**Engineering Delivery and AI Tooling**
+
+Multi-module projects, containers, CI/CD, gateway deployment, automation scripts, AI Coding, agents, and MCP tooling.
 
 <p>
+  <img src="https://img.shields.io/badge/Maven-Multi%20Module-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Nginx-Gateway-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-Code%20Assistant-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/DeepSeek%20CLI-Developer%20Tool-2F80ED?style=flat-square" alt="DeepSeek CLI" />
   <img src="https://img.shields.io/badge/MCP-Tool%20Protocol-00A67E?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/Docs%20Automation-Knowledge%20Output-455A64?style=flat-square" alt="Docs Automation" />
 </p>
 
 ## Featured Projects
