@@ -62,12 +62,13 @@
 - MCP、插件、Hooks、技能系统和可扩展工具平台。
 - 后端服务可靠性、第三方系统集成和复杂业务链路治理。
 
-## GitHub 数据
+## GitHub 动态
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kaivenw&show_icons=true&theme=transparent&hide_border=true" alt="kaivenw GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaivenw&layout=compact&theme=transparent&hide_border=true" alt="kaivenw top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kaivenw/kaivenw@output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kaivenw/kaivenw@output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/kaivenw/kaivenw@output/github-contribution-grid-snake.svg">
+</picture>
 
 <details>
 <summary id="english-version">English Version</summary>
@@ -108,9 +109,3 @@ I am a Java backend / full-stack developer with 8 years of experience in enterpr
 - Backend reliability, third-party integration, and complex business workflow governance.
 
 </details>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kaivenw/kaivenw@output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kaivenw/kaivenw@output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://cdn.jsdelivr.net/gh/kaivenw/kaivenw@output/github-contribution-grid-snake.svg">
-</picture>
